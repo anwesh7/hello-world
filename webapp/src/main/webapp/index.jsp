@@ -1,6 +1,6 @@
 <html>    
 <head>    
-    <title>Login Form</title>    
+    <title>Login Form to Enroll to Anwesh's Tutorials</title>    
     <link rel="stylesheet" type="text/css" href="css/style.css">    
 </head>    
 <body>    
