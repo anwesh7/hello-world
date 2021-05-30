@@ -4,7 +4,7 @@
     <link rel="stylesheet" type="text/css" href="css/style.css">    
 </head>    
 <body>    
-    <h2>SUCCESSFULLY FINISHED with the help of chintu and gagan stark</h2><br>    
+    <h2>Git Testing</h2><br>    
     <div class="login">    
     <form id="login" method="get" action="login.php">    
         <label><b>User Name     
