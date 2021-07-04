@@ -1,6 +1,6 @@
 <html>    
 <head>    
-    <title>Login Form</title>    
+    <title>Login FORM</title>    
     <link rel="stylesheet" type="text/css" href="css/style.css">    
 </head>    
 <body>    
