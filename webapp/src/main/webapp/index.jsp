@@ -1,6 +1,6 @@
 <html>    
 <head>    
-    <title>Login FORM</title>    
+    <title>LOGIN FORM FOR DEVOPS</title>    
     <link rel="stylesheet" type="text/css" href="css/style.css">    
 </head>    
 <body>    
