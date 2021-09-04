@@ -5,7 +5,7 @@
 </head>    
 <body>    
     <h2>Git Testing 4th july 2021</h2><br>    
-    <div class="Login">    
+    <div class="LOGIN">    
     <form id="login" method="get" action="login.php">    
         <label><b>User Name     
         </b>    
