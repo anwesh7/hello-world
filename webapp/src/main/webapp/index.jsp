@@ -4,7 +4,7 @@
     <link rel="stylesheet" type="text/css" href="css/style.css">    
 </head>    
 <body>    
-    <h2>Git Testing 4th july 2021</h2><br>    
+    <h2>Revesion testing</h2><br>    
     <div class="LOGIN">    
     <form id="login" method="get" action="login.php">    
         <label><b>User NAME 
